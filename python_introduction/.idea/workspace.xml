@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d30f67-8a0e-4420-b850-0073394f251c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/future_age_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finace_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.basic_operations.executor": "Run",
+    "Python.future_age_calculator.executor": "Run",
     "Python.hours_to_seconds.executor": "Run",
     "Python.rectangle_area.executor": "Run",
     "Python.simple_intrest.executor": "Run",
