@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31d30f67-8a0e-4420-b850-0073394f251c" name="Changes" comment="" />
+    <list default="true" id="31d30f67-8a0e-4420-b850-0073394f251c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/hours_to_seconds.py" beforeDir="false" afterPath="$PROJECT_DIR$/hours_to_seconds.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.basic_operations.executor": "Run",
+    "Python.hours_to_seconds.executor": "Run",
     "Python.rectangle_area.executor": "Run",
     "Python.simple_intrest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
