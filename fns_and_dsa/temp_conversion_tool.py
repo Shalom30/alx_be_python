@@ -22,4 +22,4 @@ try:
         converted = convert_to_celsius(temperature)
         print(f"{temperature} F is {converted} C")
 except ValueError:
-    print("Invalid input. Please enter a float value")
+    print("Invalid temperature. Please enter a numeric value.")
