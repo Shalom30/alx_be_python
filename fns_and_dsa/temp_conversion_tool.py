@@ -20,7 +20,7 @@ try:
         print(f"{temperature}°C is {converted}°F")
     elif unit == "F":
         converted = convert_to_celsius(temperature)
-        print(f"{temperature} F is {converted} C")
+        print(f"{temperature}°F is {converted}°C")
     else:
         print("Invalid unit check your spelling or maybe the options")
 except ValueError:
