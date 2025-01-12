@@ -21,5 +21,7 @@ try:
     elif unit == "F":
         converted = convert_to_celsius(temperature)
         print(f"{temperature} F is {converted} C")
+    else:
+        print("Invalid unit check your spelling or maybe the options")
 except ValueError:
     print("Invalid temperature. Please enter a numeric value.")
