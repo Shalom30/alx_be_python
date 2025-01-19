@@ -1,5 +1,5 @@
 class Book:
-    def _init_(self, title, author):
+    def __init__(self, title, author):
         self.title = title
         self.author = author
 
@@ -22,7 +22,7 @@ class Book:
 
 
 class Library:
-    def _init_(self):
+    def __init__(self):
         self.__books = []
 
     def add_book(self, book):
