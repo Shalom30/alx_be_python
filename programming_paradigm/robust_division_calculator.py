@@ -10,4 +10,4 @@ def safe_divide(numerator, denominator):
         denominator = float(denominator)
         return numerator / denominator
     except ValueError:
-        return "Please enter numeric only"
+        return "Error: Please enter numeric values only."
